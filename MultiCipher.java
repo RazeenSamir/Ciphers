@@ -1,9 +1,3 @@
-// Razeen Samir 
-// 1/22/2025
-// CSE 123 
-// P0: Ciphers
-// TA: Isaiyah
-
 import java.util.*;
 
 // This class allows for the storage of a variety of different ciphers (substitution, caesarkey
