@@ -1,9 +1,3 @@
-// Razeen Samir 
-// 1/22/2025
-// CSE 123 
-// P0: Ciphers
-// TA: Isaiyah
-
 import java.util.*;
 
 // This class is the most basic cipher, so it extends the cipher class. It provides a way to
