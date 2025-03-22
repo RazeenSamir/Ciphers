@@ -1,9 +1,3 @@
-// Razeen Samir 
-// 1/22/2025
-// CSE 123 
-// P0: Ciphers
-// TA: Isaiyah
-
 import java.util.*;
 
 // This class simulates a type of encryption that moves all encodable characters to the left
